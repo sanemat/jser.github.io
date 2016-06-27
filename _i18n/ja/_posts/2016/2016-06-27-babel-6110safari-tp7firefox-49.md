@@ -46,7 +46,7 @@ window.onerror = function(msg, url, line, column, error){}
 ネットワークパネルでどこから通信が発生したのかスタックトレースが表示されるようになり、エラーメッセージからMDNで詳細を見られるようになるなど面白い改善が含まれています。
 
 コンソールで起きたエラーメッセージから貼られるドキュメントは以下にまとめられています。
-構文エラーのようなエラーメッセージから問題をたどるには手間がかかるため、このような機能は便利だと思います。
+構文エラーのようなエラーメッセージから問題にたどり手間があるため、このような機能は便利だと思います。
 
 - [JavaScript error reference - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors "JavaScript error reference - JavaScript | MDN")
 
@@ -175,7 +175,7 @@ RxJS 5のObservableをマーブル記法というDSLで書いてテストする�
 
 <p class="jser-tags jser-tag-icon"><span class="jser-tag">TypeScript</span></p>
 
-TypeScriptの型定義でのハマりどころや、方定義ファイルを読み書きに必要な知識について
+TypeScriptの型定義でのハマりどころや、型定義ファイルの読み書きに必要な知識について
 
 ----
 <h1 class="site-genre">サイト、サービス、ドキュメント</h1>
